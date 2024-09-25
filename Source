@@ -22,7 +22,7 @@ Frame.Parent = ScreenGui
 Frame.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Frame.BorderSizePixel = 0
-Frame.Position = UDim2.new(0.381960779, 0, 0.374371856, 0)
+Frame.Position = UDim2.new(0.381960779, 0, 0, 0)
 Frame.Size = UDim2.new(0, 300, 0, 200)
 Frame.Active = true
 Frame.Draggable = true
@@ -34,7 +34,7 @@ TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.BorderSizePixel = 0
 TextLabel.Size = UDim2.new(0, 300, 0, 22)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = " dbf vote spam V1"
+TextLabel.Text = "dbf vote spam V1"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 14.000
 
@@ -45,7 +45,7 @@ TextLabel_2.BorderSizePixel = 0
 TextLabel_2.Position = UDim2.new(0, 0, 0.889999986, 0)
 TextLabel_2.Size = UDim2.new(0, 300, 0, 22)
 TextLabel_2.Font = Enum.Font.SourceSans
-TextLabel_2.Text = "made by chazza.b"
+TextLabel_2.Text = "made by cheeseman"
 TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel_2.TextSize = 14.000
 
