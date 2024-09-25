@@ -80,7 +80,7 @@ TextButton_2.Text = "2"
 TextButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_2.TextSize = 75.000
 
-TextButton.MouseButton1Click:Connect(function()
+TextButton_2.MouseButton1Click:Connect(function()
 	local args = {
 		[1] = 2
 	}
@@ -100,7 +100,7 @@ TextButton_3.Text = "3"
 TextButton_3.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_3.TextSize = 75.000
 
-TextButton.MouseButton1Click:Connect(function()
+TextButton_3.MouseButton1Click:Connect(function()
 	local args = {
 		[1] = 3
 	}
@@ -120,7 +120,7 @@ TextButton_4.Text = "vote fucker"
 TextButton_4.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_4.TextSize = 25.000
 
-TextButton.MouseButton1Click:Connect(function()
+TextButton_4.MouseButton1Click:Connect(function()
 	while true do
 		local args = {
 			[1] = 1
